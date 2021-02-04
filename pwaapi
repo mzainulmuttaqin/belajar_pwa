@@ -1,0 +1,84 @@
+{
+products: [
+{
+  "id": 1,
+  "name": "Grenadier, purple",
+  "category": "Fuscia"
+}, {
+  "id": 2,
+  "name": "Rattlesnake, horned",
+  "category": "Red"
+}, {
+  "id": 3,
+  "name": "Frogmouth, tawny",
+  "category": "Violet"
+}, {
+  "id": 4,
+  "name": "White-faced tree rat",
+  "category": "Purple"
+}, {
+  "id": 5,
+  "name": "Jaguarundi",
+  "category": "Aquamarine"
+}, {
+  "id": 6,
+  "name": "Jackrabbit, white-tailed",
+  "category": "Indigo"
+}, {
+  "id": 7,
+  "name": "Jabiru stork",
+  "category": "Indigo"
+}, {
+  "id": 8,
+  "name": "Thirteen-lined squirrel",
+  "category": "Blue"
+}, {
+  "id": 9,
+  "name": "Jackal, black-backed",
+  "category": "Turquoise"
+}, {
+  "id": 10,
+  "name": "Sloth, pale-throated three-toed",
+  "category": "Indigo"
+}, {
+  "id": 11,
+  "name": "Squirrel, eurasian red",
+  "category": "Aquamarine"
+}, {
+  "id": 12,
+  "name": "Pied avocet",
+  "category": "Yellow"
+}, {
+  "id": 13,
+  "name": "Spectacled caiman",
+  "category": "Pink"
+}, {
+  "id": 14,
+  "name": "Blue peacock",
+  "category": "Yellow"
+}, {
+  "id": 15,
+  "name": "Dove, rock",
+  "category": "Khaki"
+}, {
+  "id": 16,
+  "name": "Gemsbok",
+  "category": "Mauv"
+}, {
+  "id": 17,
+  "name": "Four-striped grass mouse",
+  "category": "Yellow"
+}, {
+  "id": 18,
+  "name": "Blue wildebeest",
+  "category": "Yellow"
+}, {
+  "id": 19,
+  "name": "Civet, common palm",
+  "category": "Goldenrod"
+}, {
+  "id": 20,
+  "name": "Brush-tailed phascogale",
+  "category": "Aquamarine"
+}]
+}
